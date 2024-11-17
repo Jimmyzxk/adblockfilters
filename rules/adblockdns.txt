@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、ADgk、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241117002255
-! Last modified: 2024/11/17 00:22:55
-! Blocked domains: 179581
+! Version: 20241117090007
+! Last modified: 2024/11/17 09:00:07
+! Blocked domains: 179595
 ! unBlocked domains: 61
 !
 ||00808.vip^
@@ -15350,6 +15350,7 @@
 ||apozy.biz^
 ||status-ch.app-2024.de^
 ||app-adforce.jp^
+||app-ads-services.com^
 ||app-analytics-services.com^
 ||app-authority.com^
 ||app-authorization.vercel.app^
@@ -50065,6 +50066,7 @@
 ||dmeq7blex6x1u.cloudfront.net^
 ||dmetherearlyinhes.info^
 ||dmeukeuktyoue.info^
+||dmevejjt.icu^
 ||dmfpaloaltonetworks.com^
 ||dmg0877nfcvqj.cloudfront.net^
 ||cmp.dmgmediaprivacy.co.uk^
@@ -66354,6 +66356,7 @@
 ||metrics.apps.ge.com^
 ||smetrics.apps.ge.com^
 ||ge041b.cfd^
+||ge189.com^
 ||data-05c346d0b0.gea.de^
 ||secureclicks.geae.com^
 ||tr.news.geantcasino.fr^
@@ -103567,6 +103570,7 @@
 ||mlcrosoftonline365activedirectorysapp.pages.dev^
 ||mlegyu.xyz^
 ||go.mlexmarketinsight.com^
+||mlgowell.org^
 ||mlicci.xyz^
 ||geoip.mlive.com^
 ||metrics.mlive.com^
@@ -113600,6 +113604,7 @@
 ||ohchat.net^
 ||info.ohdparts.com^
 ||ohgfd.top^
+||ohgorbqcegig.com^
 ||watchdog.ohio.gov^
 ||app.ohiobobcats.com^
 ||t.ohiobobcats.com^
@@ -121776,6 +121781,7 @@
 ||fm-analytics-api.pocketfm.com^
 ||pocketjaguar.com^
 ||pocketmath.com^
+||trck.pocketmoon.me^
 ||track.pocketoption.asia^
 ||pocketoption.com^
 ||dash.pocketuniverse.app^
@@ -138977,6 +138983,7 @@
 ||static.aprod.scopely.io^
 ||metrics.scopus.com^
 ||scorbark.com^
+||scorchads.com^
 ||scorchsorchic.com^
 ||score-feed.com^
 ||scorealtosuper.com^
@@ -144045,6 +144052,8 @@
 ||m.smartnaturalremedies.com^
 ||smartnews-ads.com^
 ||b.smartnews.be^
+||pixel.smartnews.com^
+||pixel.dev.smartnews.com^
 ||smartocto.com^
 ||smartoffer.site^
 ||smartokids.com^
@@ -164047,6 +164056,8 @@
 ||build.usgbc.org^
 ||marketing.usglobaltax.com^
 ||trwxvx.usgoldbureau.com^
+||usgowell.com^
+||usgowell.org^
 ||usgymnasticscamps.com^
 ||ushaitoa.com^
 ||go.trk.ushealthnet.com^
@@ -166209,6 +166220,7 @@
 ||vider-vod.pl^
 ||jkwdsl.videt.ro^
 ||ads.videy.co^
+||ads-api.videy.co^
 ||ads2.videy.co^
 ||ads3.videy.co^
 ||vidhaze.com^
@@ -174004,6 +174016,7 @@
 ||ads20.wwe-media.de^
 ||ads.wwe.biz^
 ||www.wwe23.com^
+||wweisie.top^
 ||engage.wwettshow.com^
 ||suydnc.wwf.it^
 ||snprxx.wwfmarket.com^
@@ -177625,6 +177638,7 @@
 ||v1-ad.video.yximgs.com^
 ||v2-ad.video.yximgs.com^
 ||v3-ad.video.yximgs.com^
+||yxjcyxy.icu^
 ||yxjsibeugmmj.com^
 ||yxkbgg.xyz^
 ||yxmrqc.com^
