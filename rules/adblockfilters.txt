@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、ADgk、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20260709013139
-! Last modified: 2026/07/09 01:31:39
-! Blocked Filters: 107290
+! Version: 20260709095748
+! Last modified: 2026/07/09 09:57:48
+! Blocked Filters: 107294
 !
 $$a[href="/js/app.htm?url="]
 $$a[href="changhong886.com"]
@@ -31351,6 +31351,8 @@ colamanga.com#@#.ADInfo
 colamanga.com#@#.ADLeader
 coles.com.au##[data-testid="banner-container-desktop"]
 coles.com.au#?#.coles-targeting-UnitContainer:has(ul.product__top_messaging)
+coles.com.au#?#.list-item[role="presentation"]:has([data-testid="product-tile"]:contains(Sponsored))
+coles.com.au#?#.list-item[role="presentation"]:has([data-testid="product-tile"]:has-text(Sponsored))
 collectionofbestporn.com###lower-ads
 collectionofbestporn.com##.main-nav-list > li > a[rel="nofollow"]
 collectionofbestporn.com#%#//scriptlet("abort-on-property-read", "__ads")
@@ -44494,6 +44496,8 @@ imgbox.com###full-page-redirect
 imgbox.com###image-content-container > .image-container + div[style="text-align:center; margin-top:4px;"] > div[style="display: inline-block;width:300px;height:250px"]
 imgbox.com##[style="display: inline-block;width:300px;height:250px"]
 imgbox.com##div[id^="aad-header-"]
+imgbox.com#%#//scriptlet('remove-attr', 'href', 'a[href^="https://adv.clickadu.net/"][onclick]', 'stay')
+imgbox.com#%#//scriptlet('remove-attr', 'href', 'a[href^="https://go.clickwhore.com/"][onclick]', 'stay')
 imgburn.com##font[face="Arial"][size="1"]
 imgburn.com#?#td[class="contents"][align="center"]:has(> div[style="border: 1px solid black; width: 346px; padding: 5px;"])
 imgdawgknuttz.com#%#//scriptlet("abort-on-property-write", "atOptions")
