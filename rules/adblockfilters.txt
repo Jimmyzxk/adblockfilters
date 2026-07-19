@@ -3,8 +3,8 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、ADgk、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20260719005711
-! Last modified: 2026/07/19 00:57:11
+! Version: 20260719094432
+! Last modified: 2026/07/19 09:44:32
 ! Blocked Filters: 107456
 !
 $$a[href="/js/app.htm?url="]
@@ -99458,6 +99458,7 @@ zzzyk.com###Tinfo
 ||rijutv.com/statics/comment/embed.js
 ||rijutv.com/statics/skin/hjtv-wap/js/plus.js?
 ||rintor.space/t2632cd43215.js
+||ripples.sh^$third-party
 ||risextube.com/t/
 ||rising.cn/js/haoAdData.js
 ||rising.cn/rxbox/
@@ -106151,7 +106152,6 @@ zzzyk.com###Tinfo
 ||x.com/1.1/graphql/user_flow.json
 ||x.com/1.1/jot
 ||x.com/9/measurement/
-||x.com/i/api/1.1/flow/viewer.json
 ||x.com/i/api/1.1/graphql/app_context.json
 ||x.com/i/api/1.1/graphql/error_log.json
 ||x.com/i/api/1.1/graphql/user_flow.json
