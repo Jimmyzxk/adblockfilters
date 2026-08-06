@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、ADgk、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20260806013601
-! Last modified: 2026/08/06 01:36:01
-! Blocked Filters: 107856
+! Version: 20260806094239
+! Last modified: 2026/08/06 09:42:39
+! Blocked Filters: 107857
 !
 $$a[href="/js/app.htm?url="]
 $$a[href="changhong886.com"]
@@ -33469,6 +33469,7 @@ delmagyar.hu#?#aside#main-aside > .aside-box:has(> .aside-box__section > .banner
 delo.si##.iprom-background-placement
 deloplen.com$$script[max-length="0"]
 delta.com#@#.adv-container
+deltaforcetools.gg#@#.ad-sidebar
 deltiasgaming.com##.opti-digital-header-ad
 deltiasgaming.com##.vidazoo-player-container
 deluxemusic.tv#@#.article_ad
