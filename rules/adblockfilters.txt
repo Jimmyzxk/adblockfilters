@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、ADgk、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20260926040605
-! Last modified: 2026/09/26 04:06:05
-! Blocked Filters: 108886
+! Version: 20260926104236
+! Last modified: 2026/09/26 10:42:36
+! Blocked Filters: 108888
 !
 $$a[href="/js/app.htm?url="]
 $$a[href="changhong886.com"]
@@ -33929,6 +33929,7 @@ desmoinesregister.com##.ymHyVK__ymHyVK
 dessi.co##.pages__BannerWrapper-sc-1yt8jfz-0
 dessi.io#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com')
 destructoid.com##.gamurs-ad-container
+destructoid.com,progameguides.com##.leaderboard_atf
 destructoid.com,wegotthiscovered.com##.wp-block-gamurs-ad
 detail.zol.com.cn##.link_jd
 detaly.co.il##.content_dtly_ads
@@ -60379,7 +60380,6 @@ profullversion.com,warezcrack.net##center > a[href][rel="nofollow"][target="_bla
 prog.co.il#%#//scriptlet("abort-current-inline-script", "$", "adsBlocked")
 prog.co.il#%#//scriptlet("prevent-setTimeout", "adView")
 progameguides.com###top-sticky-sidebar-container
-progameguides.com##.leaderboard_atf
 progameguides.com##div[id^="content_dynamicAd-"]
 progameguides.com##div[id^="sideAd-"]
 progamerage.com##div[class^="adsslotcustom"]
@@ -78207,6 +78207,7 @@ zzzyk.com###Tinfo
 ||139xiaoshuo.com/css/js/tools.
 ||13sqw.com/js/foot.js
 ||13txt.net/js/ssgdd.
+||1414.hexa.su/script.js
 ||141h.com/data/attachment/noblock/cf/
 ||142.91.$popup,third-party,domain=~in-addr.arpa
 ||142.91.159.
@@ -105567,6 +105568,7 @@ zzzyk.com###Tinfo
 ||u.ctrip.com/showcaseadvertisementsit/
 ||u.gg/affiliate/amazon/*.jpg
 ||u.riju.com/click.php
+||u.tetas.pt/script.js
 ||u.xogu.cn^$third-party
 ||u26u.com/$third-party,~font,popup
 ||u26u.com^$popup,third-party
